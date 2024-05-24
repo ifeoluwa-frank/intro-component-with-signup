@@ -181,6 +181,7 @@ span.password-errors {
   p {
     text-align: center;
     font-size: 17px;
+    width: 96%;
   }
 
   h4 {
@@ -189,6 +190,7 @@ span.password-errors {
     font-size: 18px;
     line-height: 1.6;
     box-shadow: 0 6px 3px rgba(0, 0, 0, 0.35);
+    width: 100%;
   }
 
   button {
@@ -201,6 +203,7 @@ span.password-errors {
     text-align: center;
     font-size: 13px;
     line-height: 1.8;
+    width: 98%;
   }
 
   form {
