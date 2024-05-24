@@ -119,7 +119,8 @@ small {
   align-items: center;
   justify-content: center;
   color: var(--grayish-blue);
-  gap: 0.25rem;
+  font-size: 12px;
+  width: 100%;
 }
 
 small span {
@@ -201,9 +202,8 @@ span.password-errors {
   small {
     display: inline-block;
     text-align: center;
-    font-size: 13px;
     line-height: 1.8;
-    width: 98%;
+    width: 95%;
   }
 
   form {
