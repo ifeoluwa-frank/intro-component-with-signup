@@ -163,7 +163,7 @@ span.password-errors {
 
 @media screen and (max-width: 600px) {
   body {
-    width: 600px;
+    max-width: 600px;
     background: url("./images/bg-intro-mobile.png") no-repeat center;
     background-color: var(--red);
     background-size: cover;
@@ -176,7 +176,7 @@ span.password-errors {
   h1 {
     font-size: 3rem;
     text-align: center;
-    margin-top: 320px;
+    margin-top: 600px;
     /* margin-right: 62px; */
     line-height: 1.3;
   }
