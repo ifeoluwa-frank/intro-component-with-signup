@@ -90,6 +90,10 @@ input.error {
   border: 1px solid var(--red);
 }
 
+input.password {
+  padding-right: 5rem !important;
+}
+
 input:hover,
 input:focus {
   outline: 1.5px solid var(--blue);
